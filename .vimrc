@@ -12,10 +12,10 @@ set nofoldenable
 set foldlevel=1
 
 " Solarized config
-set t_Co=256
+"set t_Co=256
 syntax enable
 let g:solarized_termtrans=1                                                   
-let g:solarized_termcolors=256 
+"let g:solarized_termcolors=256 
 set background=dark
 colorscheme solarized
 
