@@ -37,6 +37,7 @@ Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'Yggdroot/indentLine'
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
+Plugin 'rust-lang/rust.vim'
 
 call vundle#end()
 filetype plugin indent on
